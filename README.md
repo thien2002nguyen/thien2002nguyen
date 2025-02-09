@@ -24,3 +24,4 @@
 
 ## 💌 Kết nối với tôi
 - 📌 Facebook: [nctthien677](https://www.facebook.com/nctthien677/)
+- 📧 **Email:** [nguyencanhthien784@gmail.com](mailto:nguyencanhthien784@gmail.com)
