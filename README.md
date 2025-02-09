@@ -23,5 +23,5 @@
 - **Công cụ khác:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E)
 
 ## 💌 Kết nối với tôi
-- 📌 Facebook: [nctthien677](https://www.facebook.com/nctthien677/)
+- 📌 **Facebook:** [nctthien677](https://www.facebook.com/nctthien677/)
 - 📧 **Email:** [nguyencanhthien784@gmail.com](mailto:nguyencanhthien784@gmail.com)
